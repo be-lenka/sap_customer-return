@@ -1,0 +1,48 @@
+# # APICUSTOMERRETURNSRVACustomerReturnTypeUpdate
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**customer_return_type** | **string** |  | [optional]
+**sales_organization** | **string** |  | [optional]
+**distribution_channel** | **string** |  | [optional]
+**organization_division** | **string** |  | [optional]
+**sales_group** | **string** |  | [optional]
+**sales_office** | **string** |  | [optional]
+**sales_district** | **string** |  | [optional]
+**sold_to_party** | **string** |  | [optional]
+**purchase_order_by_customer** | **string** |  | [optional]
+**customer_purchase_order_type** | **string** | Customer Purchase Order Type | [optional]
+**customer_purchase_order_date** | **string** |  | [optional]
+**customer_return_date** | **string** | Document Date (Date Received/Sent) | [optional]
+**transaction_currency** | **string** | SD Document Currency | [optional]
+**sd_document_reason** | **string** | Order Reason (Reason for the Business Transaction) | [optional]
+**pricing_date** | **string** | Date for Pricing and Exchange Rate | [optional]
+**requested_delivery_date** | **string** |  | [optional]
+**shipping_type** | **string** |  | [optional]
+**header_billing_block_reason** | **string** | Billing Block in SD Document | [optional]
+**delivery_block_reason** | **string** | Delivery Block (Document Header) | [optional]
+**incoterms_classification** | **string** | Incoterms (Part 1) | [optional]
+**incoterms_transfer_location** | **string** |  | [optional]
+**incoterms_location1** | **string** |  | [optional]
+**incoterms_location2** | **string** |  | [optional]
+**incoterms_version** | **string** |  | [optional]
+**customer_payment_terms** | **string** | Key for Terms of Payment | [optional]
+**payment_method** | **string** |  | [optional]
+**customer_tax_classification1** | **string** | Alternative Tax Classification | [optional]
+**customer_tax_classification2** | **string** | Tax Classification 2 for Customer | [optional]
+**customer_tax_classification3** | **string** | Tax Classification 3 for Customer | [optional]
+**customer_tax_classification4** | **string** | Tax Classification 4 for Customer | [optional]
+**customer_tax_classification5** | **string** | Tax Classification 5 for Customer | [optional]
+**customer_tax_classification6** | **string** | Tax Classification 6 for Customer | [optional]
+**customer_tax_classification7** | **string** | Tax Classification 7 for Customer | [optional]
+**customer_tax_classification8** | **string** | Tax Classification 8 for Customer | [optional]
+**customer_tax_classification9** | **string** | Tax Classification 9 for Customer | [optional]
+**reference_sd_document** | **string** | Document Number of Reference Document | [optional]
+**accounting_doc_external_reference** | **string** | Reference Document Number | [optional]
+**assignment_reference** | **string** | Assignment Number | [optional]
+**customer_return_approval_reason** | **string** | Approval Request Reason ID | [optional]
+**sales_doc_approval_status** | **string** | Document Approval Status | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
